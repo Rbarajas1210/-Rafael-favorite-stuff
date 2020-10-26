@@ -1,0 +1,15 @@
+$("#hideme").toggle();
+$("#aparecium").click(function(){
+   $("#harry2").toggle(); 
+});$("#aguamenti").click(function(){
+    $("#ink").slideToggle();
+});
+$("#expecto").click(function(){
+    $("#dementor").slideToggle();
+});
+$("#show").click(function(){
+    $("#pennywise").slideToggle();
+});
+$("#favoritefood").click(function(){
+    $("#harry").slideToggle();
+});
